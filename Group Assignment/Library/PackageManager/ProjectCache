@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638511255990000000
-    m_Hash: 1848776595
+      ticks: 638512540551645158
+    m_Hash: 199291096
   m_LockFileStatus:
     m_FilePath: C:/Users/kenan/Documents/GitHub/Unity_Group_Assignment/Group Assignment/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638511256040000000
-    m_Hash: 3953171156
+      ticks: 638512540551655160
+    m_Hash: 1214938168
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
